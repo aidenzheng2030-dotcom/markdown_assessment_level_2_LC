@@ -1,7 +1,7 @@
 # Grand Opening: The Byte Bites Food Truck
 ![picture](https://picsum.photos/id/431/600/300)
 
-Welcome to **Byte Bites**, the first food truck run *entirely* by student coders! we serve fresh food in the morning and write code at night.
+Welcome to **Byte Bites**, the first food truck run *entirely* by student coders! we serve fresh food in the morning and write code at night.   
 ---
 ## Today's Menu
 - **Breakfast**
@@ -25,17 +25,14 @@ Every order is added up by our app. We use the `total` variable to keep track of
     }
 ```
 ---
-## What Customers Are Saying
-"Best chopped cheese in East Harlem, and the **free cookie** deal is genius!"
+> ## What Customers Are Saying
+> "Best chopped cheese in East Harlem, and the **free cookie** deal is genius!"
 ---
 ## Find Us Online
 Follow our daily location on [Instagram](https://www.instagram.com/?hl=en), or read our reviews on [Yelp](https://www.yelp.com/nyc).
 
 Want to build an app like ours? Start learning here:
-    - [freeCodeCamp](https://www.freecodecamp.org/)
-    - [MDN Web Docs](https://developer.mozilla.org/en-US/)
+ - [freeCodeCamp](https://www.freecodecamp.org/)
+ - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 ---
 `git push origin main` - the command we run every time we add a new item to the menu!
-
-
-
