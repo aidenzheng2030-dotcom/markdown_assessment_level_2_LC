@@ -25,5 +25,9 @@ Every order is added up by our app. We use the `total` variable to keep track of
     }
 ```
 ---
+## What Customers Are Saying
+"Best chopped cheese in East Harlem, and the **free cookie** deal is genius!"
+---
+
 
 
